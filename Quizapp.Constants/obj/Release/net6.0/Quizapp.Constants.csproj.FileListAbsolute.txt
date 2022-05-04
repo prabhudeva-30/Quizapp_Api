@@ -1,0 +1,12 @@
+D:\API\Quizapp.Constants\bin\Release\net6.0\Quizapp.Constants.deps.json
+D:\API\Quizapp.Constants\bin\Release\net6.0\Quizapp.Constants.dll
+D:\API\Quizapp.Constants\bin\Release\net6.0\Quizapp.Constants.pdb
+D:\API\Quizapp.Constants\obj\Release\net6.0\Quizapp.Constants.csproj.AssemblyReference.cache
+D:\API\Quizapp.Constants\obj\Release\net6.0\Quizapp.Constants.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\Quizapp.Constants\obj\Release\net6.0\Quizapp.Constants.AssemblyInfoInputs.cache
+D:\API\Quizapp.Constants\obj\Release\net6.0\Quizapp.Constants.AssemblyInfo.cs
+D:\API\Quizapp.Constants\obj\Release\net6.0\Quizapp.Constants.csproj.CoreCompileInputs.cache
+D:\API\Quizapp.Constants\obj\Release\net6.0\Quizapp.Constants.dll
+D:\API\Quizapp.Constants\obj\Release\net6.0\refint\Quizapp.Constants.dll
+D:\API\Quizapp.Constants\obj\Release\net6.0\Quizapp.Constants.pdb
+D:\API\Quizapp.Constants\obj\Release\net6.0\ref\Quizapp.Constants.dll

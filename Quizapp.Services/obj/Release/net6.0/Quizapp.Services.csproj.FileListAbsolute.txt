@@ -1,0 +1,17 @@
+D:\API\Quizapp.Services\bin\Release\net6.0\Quizapp.Services.deps.json
+D:\API\Quizapp.Services\bin\Release\net6.0\Quizapp.Services.dll
+D:\API\Quizapp.Services\bin\Release\net6.0\Quizapp.Services.pdb
+D:\API\Quizapp.Services\bin\Release\net6.0\Quizapp.ClassModels.dll
+D:\API\Quizapp.Services\bin\Release\net6.0\Quizapp.Constants.dll
+D:\API\Quizapp.Services\bin\Release\net6.0\Quizapp.ClassModels.pdb
+D:\API\Quizapp.Services\bin\Release\net6.0\Quizapp.Constants.pdb
+D:\API\Quizapp.Services\obj\Release\net6.0\Quizapp.Services.csproj.AssemblyReference.cache
+D:\API\Quizapp.Services\obj\Release\net6.0\Quizapp.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\Quizapp.Services\obj\Release\net6.0\Quizapp.Services.AssemblyInfoInputs.cache
+D:\API\Quizapp.Services\obj\Release\net6.0\Quizapp.Services.AssemblyInfo.cs
+D:\API\Quizapp.Services\obj\Release\net6.0\Quizapp.Services.csproj.CoreCompileInputs.cache
+D:\API\Quizapp.Services\obj\Release\net6.0\Quizapp.Services.csproj.CopyComplete
+D:\API\Quizapp.Services\obj\Release\net6.0\Quizapp.Services.dll
+D:\API\Quizapp.Services\obj\Release\net6.0\refint\Quizapp.Services.dll
+D:\API\Quizapp.Services\obj\Release\net6.0\Quizapp.Services.pdb
+D:\API\Quizapp.Services\obj\Release\net6.0\ref\Quizapp.Services.dll

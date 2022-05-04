@@ -1,0 +1,12 @@
+D:\API\Quizapp.Utilities\bin\Release\net6.0\Quizapp.Utilities.deps.json
+D:\API\Quizapp.Utilities\bin\Release\net6.0\Quizapp.Utilities.dll
+D:\API\Quizapp.Utilities\bin\Release\net6.0\Quizapp.Utilities.pdb
+D:\API\Quizapp.Utilities\obj\Release\net6.0\Quizapp.Utilities.csproj.AssemblyReference.cache
+D:\API\Quizapp.Utilities\obj\Release\net6.0\Quizapp.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\API\Quizapp.Utilities\obj\Release\net6.0\Quizapp.Utilities.AssemblyInfoInputs.cache
+D:\API\Quizapp.Utilities\obj\Release\net6.0\Quizapp.Utilities.AssemblyInfo.cs
+D:\API\Quizapp.Utilities\obj\Release\net6.0\Quizapp.Utilities.csproj.CoreCompileInputs.cache
+D:\API\Quizapp.Utilities\obj\Release\net6.0\Quizapp.Utilities.dll
+D:\API\Quizapp.Utilities\obj\Release\net6.0\refint\Quizapp.Utilities.dll
+D:\API\Quizapp.Utilities\obj\Release\net6.0\Quizapp.Utilities.pdb
+D:\API\Quizapp.Utilities\obj\Release\net6.0\ref\Quizapp.Utilities.dll
